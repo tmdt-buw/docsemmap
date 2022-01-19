@@ -1,0 +1,2795 @@
+{
+    "pay_by_credit_card": [
+        "payment_method"
+    ],
+    "address": [
+        "address",
+        "street"
+    ],
+    "tvm_identifier": [
+        "identifier"
+    ],
+    "pay_by_cash": [
+        "payment_method"
+    ],
+    "latitude": [
+        "latitude"
+    ],
+    "type": [
+        "geo_type",
+        "type",
+        "classification"
+    ],
+    "longitude": [
+        "longitude",
+        "latitude"
+    ],
+    "coordinates": [
+        "geoposition"
+    ],
+    "name": [
+        "name",
+        "wgs84"
+    ],
+    "region": [
+        "region"
+    ],
+    "crash_time": [
+        "time"
+    ],
+    "lighting_condition": [
+        "lighting_condition"
+    ],
+    "crash_date": [
+        "date"
+    ],
+    "weather_condition": [
+        "weather_condition"
+    ],
+    "midblock": [
+        "midblock"
+    ],
+    "crash_id": [
+        "identifier"
+    ],
+    "crash_severity": [
+        "severity"
+    ],
+    "intersection": [
+        "intersection"
+    ],
+    "x": [
+        "longitude"
+    ],
+    "y": [
+        "latitude"
+    ],
+    "crash_direction": [
+        "direction"
+    ],
+    "road_condition": [
+        "road_condition"
+    ],
+    "suburb_location": [
+        "region"
+    ],
+    "TLRN [Red route]?": [
+        "major_road"
+    ],
+    "Borough": [
+        "district",
+        "borough"
+    ],
+    "Lng": [
+        "longitude"
+    ],
+    "Road number": [
+        "identifier"
+    ],
+    "Height restriction (imperial)": [
+        "height_restriction"
+    ],
+    "Northing": [
+        "northing"
+    ],
+    "Grid Reference": [
+        "reference"
+    ],
+    "Easting": [
+        "easting"
+    ],
+    "Lat": [
+        "latitude"
+    ],
+    "Road name": [
+        "name"
+    ],
+    "Height restriction (m)": [
+        "height_restriction"
+    ],
+    "end_date": [
+        "date",
+        "datetime"
+    ],
+    "charge_type": [
+        "occupation_status"
+    ],
+    "additional_relief": [
+        "relief"
+    ],
+    "northing": [
+        "northing"
+    ],
+    "small_business_relief": [
+        "relief"
+    ],
+    "exemption_relief": [
+        "relief"
+    ],
+    "spatial_accuracy": [
+        "accuracy"
+    ],
+    "gross_charge": [
+        "charge"
+    ],
+    "start_date": [
+        "datetime",
+        "date"
+    ],
+    "easting": [
+        "easting"
+    ],
+    "property_reference": [
+        "reference"
+    ],
+    "supporting_small_business_relief": [
+        "relief"
+    ],
+    "charity_relief": [
+        "relief"
+    ],
+    "discretionary_relief": [
+        "relief"
+    ],
+    "supplement": [
+        "supplement"
+    ],
+    "company_name": [
+        "name"
+    ],
+    "url": [
+        "url"
+    ],
+    "zip": [
+        "zip_code",
+        "zipCodeFive",
+        "postcode"
+    ],
+    "city_state": [
+        "statecity"
+    ],
+    "zip4": [
+        "zipCodePlusFour"
+    ],
+    "facility": [
+        "name"
+    ],
+    "cashless_identifier": [
+        "identifier"
+    ],
+    "restriction_type": [
+        "type"
+    ],
+    "nearest_machine": [
+        "parking_meter"
+    ],
+    "unique_identifier": [
+        "identifier"
+    ],
+    "valid_parking_permits": [
+        "permit"
+    ],
+    "postcode": [
+        "postcode"
+    ],
+    "controlled_parking_zone": [
+        "parking_zone"
+    ],
+    "parking_bay_length_metres": [
+        "length"
+    ],
+    "maximum_stay": [
+        "maximum_stay"
+    ],
+    "times_of_operation": [
+        "opening_hours"
+    ],
+    "parking_spaces": [
+        "parking_space"
+    ],
+    "tariff": [
+        "charge"
+    ],
+    "ticket_issued_via_cctv_camera": [
+        "cctv_camera"
+    ],
+    "ticket_type": [
+        "type"
+    ],
+    "contravention_code_description": [
+        "description"
+    ],
+    "vehicle_category": [
+        "classification"
+    ],
+    "vehicle_removed": [
+        "towing_yard"
+    ],
+    "penalty_charge_notice_written_off": [
+        "depreciation"
+    ],
+    "civil_enforcement_officer_error": [
+        "error"
+    ],
+    "country_vehicle_registered_to": [
+        "country"
+    ],
+    "status_of_case": [
+        "status"
+    ],
+    "contravention_date": [
+        "datetime"
+    ],
+    "ward_name": [
+        "name"
+    ],
+    "contravention_code": [
+        "code"
+    ],
+    "street": [
+        "street"
+    ],
+    "charging_band_description": [
+        "type"
+    ],
+    "ward_code": [
+        "reference"
+    ],
+    "cancellation_reason": [
+        "reason"
+    ],
+    "ticket_description": [
+        "description"
+    ],
+    "contravention_in_last_7_days": [
+        "time_period"
+    ],
+    "penalty_charge_notice_cancelled": [
+        "cancelation"
+    ],
+    "foreign_vehicle": [
+        "stranger"
+    ],
+    "contravention_code_suffix": [
+        "code"
+    ],
+    "controlled_parking_zone_area": [
+        "area"
+    ],
+    "PrimaryUse": [
+        "usage"
+    ],
+    "SiteID": [
+        "identifier"
+    ],
+    "SiteName": [
+        "name"
+    ],
+    "AreaHa": [
+        "area"
+    ],
+    "Qualifier": [
+        "qualifier"
+    ],
+    "Steet Name": [
+        "street"
+    ],
+    "Day Of Week": [
+        "day_of_week"
+    ],
+    "Crash Number": [
+        "identifier"
+    ],
+    "Cross Street": [
+        "intersection"
+    ],
+    "Date Time": [
+        "datetime"
+    ],
+    "Latitude": [
+        "latitude"
+    ],
+    "Longitude": [
+        "longitude"
+    ],
+    "Object 2": [
+        "subject"
+    ],
+    "Street Number": [
+        "house_number"
+    ],
+    "Location": [
+        "address"
+    ],
+    "Object 1": [
+        "subject"
+    ],
+    "meter": [
+        "classification"
+    ],
+    "violation_description": [
+        "description"
+    ],
+    "human_address": [
+        "address"
+    ],
+    "issue_time": [
+        "time"
+    ],
+    "department": [
+        "department"
+    ],
+    "ticket_issue_date": [
+        "date"
+    ],
+    "dog_name": [
+        "name"
+    ],
+    "longitude_masked": [
+        "longitude"
+    ],
+    "dog_breed": [
+        "breed"
+    ],
+    "latitude_masked": [
+        "latitude"
+    ],
+    "neighborhood": [
+        "district",
+        "neighborhood",
+        "classification"
+    ],
+    "recordid": [
+        "identifier"
+    ],
+    "datetime": [
+        "datetime"
+    ],
+    "roadsurfacetemperature": [
+        "surface_temperature"
+    ],
+    "airtemperature": [
+        "air_temperature"
+    ],
+    "stationname": [
+        "name"
+    ],
+    "incident_number": [
+        "identifier"
+    ],
+    "permitnum": [
+        "identifier",
+        "permitnumber"
+    ],
+    "permittype": [
+        "permittype",
+        "type"
+    ],
+    "statuscurrent": [
+        "status"
+    ],
+    "originalzip": [
+        "zip_code"
+    ],
+    "permitclassmapped": [
+        "permitclassdescriptor",
+        "description"
+    ],
+    "originalcity": [
+        "city"
+    ],
+    "originalstate": [
+        "state"
+    ],
+    "originaladdress1": [
+        "address"
+    ],
+    "permitclass": [
+        "permitclass",
+        "type"
+    ],
+    "recordtype": [
+        "classification"
+    ],
+    "opendate": [
+        "date"
+    ],
+    "recordnum": [
+        "identifier"
+    ],
+    "recordtypemapped": [
+        "classification"
+    ],
+    "crime_against_category": [
+        "classification"
+    ],
+    "group_a_b": [
+        "classification"
+    ],
+    "offense": [
+        "offense"
+    ],
+    "mcpp": [
+        "district"
+    ],
+    "_100_block_address": [
+        "address"
+    ],
+    "offense_parent_group": [
+        "classification"
+    ],
+    "precinct": [
+        "district"
+    ],
+    "offense_id": [
+        "identifier"
+    ],
+    "report_number": [
+        "identifier"
+    ],
+    "beat": [
+        "sector"
+    ],
+    "offense_code": [
+        "code"
+    ],
+    "offense_start_datetime": [
+        "datetime"
+    ],
+    "report_datetime": [
+        "datetime"
+    ],
+    "sector": [
+        "sector"
+    ],
+    "offense_end_datetime": [
+        "datetime"
+    ],
+    "Date / Time": [
+        "datetime"
+    ],
+    "Years of SPD Service": [
+        "time_period"
+    ],
+    "Subject Race": [
+        "race"
+    ],
+    "On-duty": [
+        "duty"
+    ],
+    "Subject Age": [
+        "age"
+    ],
+    "Officer Race": [
+        "race"
+    ],
+    "Subject Gender": [
+        "gender"
+    ],
+    "Subject DOB": [
+        "birthdate"
+    ],
+    "Officer Injured": [
+        "injury"
+    ],
+    "Subject Weapon": [
+        "amarment"
+    ],
+    "Rank": [
+        "rank"
+    ],
+    "City": [
+        "city"
+    ],
+    "Fatal": [
+        "injury"
+    ],
+    "Type of Weapon": [
+        "weapon"
+    ],
+    "Number of Rounds": [
+        "count"
+    ],
+    "Officer Gender": [
+        "gender"
+    ],
+    "State": [
+        "state"
+    ],
+    "Disposition": [
+        "classification"
+    ],
+    "FRB #": [
+        "identifier"
+    ],
+    "Officer Disciplined?": [
+        "disciplinary_action"
+    ],
+    "Summary": [
+        "summary"
+    ],
+    "Blurred Address": [
+        "address"
+    ],
+    "Incident Number": [
+        "identifier"
+    ],
+    "preliminary_risk_category": [
+        "riskcategory"
+    ],
+    "city": [
+        "city",
+        "municipality"
+    ],
+    "building_use": [
+        "usage"
+    ],
+    "retrofit_level": [
+        "retrofit"
+    ],
+    "estimated_number_of_occupants": [
+        "residentEstimation"
+    ],
+    "zip_code": [
+        "zip_code"
+    ],
+    "confirmation_source": [
+        "confirmationmethod"
+    ],
+    "no_stories": [
+        "storycount"
+    ],
+    "year_built": [
+        "building_year"
+    ],
+    "state": [
+        "state"
+    ],
+    "propertyname": [
+        "name"
+    ],
+    "permittypedesc": [
+        "description"
+    ],
+    "rentalhousingunits": [
+        "count"
+    ],
+    "registereddate": [
+        "date"
+    ],
+    "expiresdate": [
+        "date"
+    ],
+    "propertycontactname": [
+        "name"
+    ],
+    "permittypemapped": [
+        "type",
+        "classification"
+    ],
+    "description": [
+        "description"
+    ],
+    "last_name": [
+        "last_name"
+    ],
+    "medium": [
+        "material"
+    ],
+    "title": [
+        "name"
+    ],
+    "location": [
+        "description",
+        "address",
+        "street",
+        "location"
+    ],
+    "first_name": [
+        "first_name"
+    ],
+    "paidparkingsubarea": [
+        "area"
+    ],
+    "paidoccupancy": [
+        "count"
+    ],
+    "parkingtimelimitcategory": [
+        "time_period"
+    ],
+    "sideofstreet": [
+        "position",
+        "cardinalDirection"
+    ],
+    ":@computed_region_q256_3sug": [
+        "identifier"
+    ],
+    "paidparkingarea": [
+        "district"
+    ],
+    "blockfacename": [
+        "street"
+    ],
+    "parkingcategory": [
+        "classification"
+    ],
+    "parkingspacecount": [
+        "count"
+    ],
+    "occupancydatetime": [
+        "datetime"
+    ],
+    "link": [
+        "url"
+    ],
+    "transaction_id": [
+        "identifier"
+    ],
+    "amount_paid": [
+        "price"
+    ],
+    "payment_mean": [
+        "payment_method"
+    ],
+    "durationinminutes": [
+        "duration"
+    ],
+    "elementkey": [
+        "identifier"
+    ],
+    "meter_code": [
+        "identifier"
+    ],
+    "transactiondatetime": [
+        "datetime"
+    ],
+    "blockface_name": [
+        "streetSegmentDescription"
+    ],
+    "impact": [
+        "severity",
+        "magnitude"
+    ],
+    "to_street": [
+        "street"
+    ],
+    "duration": [
+        "time_period",
+        "duration"
+    ],
+    "on_street": [
+        "street"
+    ],
+    "disruption_id": [
+        "identifier"
+    ],
+    "finish_date": [
+        "datetime"
+    ],
+    "date_issued": [
+        "datetime"
+    ],
+    "infrastructure": [
+        "traffic_infrastructure"
+    ],
+    "traffic_district": [
+        "district",
+        "cardinalDirection"
+    ],
+    "activity_type": [
+        "type",
+        "disturbanceSpecification"
+    ],
+    "details": [
+        "description",
+        "measure"
+    ],
+    "closure": [
+        "event",
+        "roadClosure"
+    ],
+    "from_street": [
+        "street"
+    ],
+    "status": [
+        "status"
+    ],
+    "scheduled_date": [
+        "date"
+    ],
+    "scheduled_day": [
+        "day"
+    ],
+    "neighbourhood": [
+        "district"
+    ],
+    "maintenance_area_number": [
+        "identifier"
+    ],
+    "revised_start_date_2": [
+        "date"
+    ],
+    "earliest_scheduled_start_date": [
+        "date"
+    ],
+    "planned_start_date_postponed_": [
+        "information"
+    ],
+    "neighborhood_name": [
+        "district"
+    ],
+    "revised_earliest_scheduled_start_date": [
+        "date"
+    ],
+    "blurb": [
+        "information"
+    ],
+    "revised_latest_scheduled_start_date": [
+        "date"
+    ],
+    "planned_start_date": [
+        "date"
+    ],
+    "maintenance_area": [
+        "identifier"
+    ],
+    "revised_start_date": [
+        "date"
+    ],
+    "latest_scheduled_start_date": [
+        "date"
+    ],
+    "business_category": [
+        "classification"
+    ],
+    "neighbourhood_id": [
+        "identifier"
+    ],
+    "expiry_date": [
+        "date"
+    ],
+    "ward": [
+        "district"
+    ],
+    "trade_name": [
+        "name"
+    ],
+    "date_of_issue": [
+        "date"
+    ],
+    "date": [
+        "datetime",
+        "date"
+    ],
+    "storm_rating_description": [
+        "description"
+    ],
+    "storm_rating": [
+        "severity"
+    ],
+    "station": [
+        "identifier"
+    ],
+    "amount_legend": [
+        "range"
+    ],
+    "_24h_total": [
+        "value"
+    ],
+    "time": [
+        "time"
+    ],
+    "station_description": [
+        "description"
+    ],
+    "station_number": [
+        "identifier"
+    ],
+    "date_and_time": [
+        "datetime"
+    ],
+    "row_id": [
+        "identifier"
+    ],
+    "water_flow_cu_meter_per_sec": [
+        "flow"
+    ],
+    "water_level_m": [
+        "water_level"
+    ],
+    "species_botanical": [
+        "species"
+    ],
+    "diameter_breast_height": [
+        "height"
+    ],
+    "type_of_edible_fruit": [
+        "type"
+    ],
+    "species_2": [
+        "species"
+    ],
+    "planted_date": [
+        "date"
+    ],
+    "id": [
+        "identifier"
+    ],
+    "bears_edible_fruit": [
+        "fruit"
+    ],
+    "condition_percent": [
+        "condition"
+    ],
+    "owner": [
+        "owner",
+        "classification"
+    ],
+    "count": [
+        "count",
+        "county"
+    ],
+    "location_type": [
+        "type"
+    ],
+    "cultivar": [
+        "cultivar"
+    ],
+    "genus": [
+        "genus"
+    ],
+    "species": [
+        "species"
+    ],
+    "neighbourhood_name": [
+        "district",
+        "neighborhood"
+    ],
+    "account_number": [
+        "identifier"
+    ],
+    "assessed_value": [
+        "value"
+    ],
+    "assessment_year": [
+        "year"
+    ],
+    "garage": [
+        "garage"
+    ],
+    "tax_class_pct_1": [
+        "classification"
+    ],
+    "house_number": [
+        "house_number"
+    ],
+    "street_name": [
+        "street",
+        "name"
+    ],
+    "zoning": [
+        "reference",
+        "district"
+    ],
+    "legal_description": [
+        "description"
+    ],
+    "lot_size": [
+        "lot_size"
+    ],
+    "mill_class_1": [
+        "classification"
+    ],
+    "initiated_by": [
+        "initiator"
+    ],
+    "year": [
+        "year"
+    ],
+    "report_period": [
+        "time_period"
+    ],
+    "month_number": [
+        "month"
+    ],
+    "neighbourhood_number": [
+        "identifier"
+    ],
+    "month": [
+        "month"
+    ],
+    "complaint": [
+        "classification"
+    ],
+    "gender": [
+        "gender"
+    ],
+    "pet_type": [
+        "domesticated_animal"
+    ],
+    "breed": [
+        "breed"
+    ],
+    "spayed_or_neutered": [
+        "neuter_state"
+    ],
+    "license_date": [
+        "datetime"
+    ],
+    "event_close_time": [
+        "time"
+    ],
+    "dispatch_day_number": [
+        "day_of_week"
+    ],
+    "dispatch_time": [
+        "time"
+    ],
+    "dispatch_month_name": [
+        "month"
+    ],
+    "event_description": [
+        "description"
+    ],
+    "dispatch_month_number": [
+        "month"
+    ],
+    "event_close_date": [
+        "date"
+    ],
+    "approximate_location": [
+        "description"
+    ],
+    "event_type_group": [
+        "classification"
+    ],
+    "dispatch_year": [
+        "year"
+    ],
+    "dispatch_date": [
+        "date"
+    ],
+    "event_number": [
+        "identifier"
+    ],
+    "day_of_week": [
+        "day_of_week"
+    ],
+    "grades_offered": [
+        "grade"
+    ],
+    "school_name": [
+        "name"
+    ],
+    "fax_number": [
+        "fax_number"
+    ],
+    "email_address": [
+        "email_address"
+    ],
+    "grade_level": [
+        "classification"
+    ],
+    "phone_number": [
+        "phone_number"
+    ],
+    "ab_education_school_number": [
+        "identifier"
+    ],
+    "programs": [
+        "educational_program"
+    ],
+    "postal_code": [
+        "postcode"
+    ],
+    "building_address": [
+        "address"
+    ],
+    "warning_type_1": [
+        "inventory"
+    ],
+    "name_of_historic_resource": [
+        "name"
+    ],
+    "construction_completion_year": [
+        "building_year"
+    ],
+    "hydrant_number": [
+        "identifier"
+    ],
+    "flow_rate": [
+        "flow"
+    ],
+    "installation_year": [
+        "year"
+    ],
+    "dome_colour": [
+        "colour"
+    ],
+    "stop_id": [
+        "identifier"
+    ],
+    "landmark_name": [
+        "name"
+    ],
+    "sunday_close": [
+        "time"
+    ],
+    "branch": [
+        "name"
+    ],
+    "thursday_open": [
+        "time"
+    ],
+    "saturday_close": [
+        "time"
+    ],
+    "wednesday_close": [
+        "time"
+    ],
+    "branch_id": [
+        "identifier"
+    ],
+    "wednesday_open": [
+        "time"
+    ],
+    "sunday_open": [
+        "time"
+    ],
+    "saturday_open": [
+        "time"
+    ],
+    "monday_open": [
+        "time"
+    ],
+    "free_wifi": [
+        "public_wifi"
+    ],
+    "friday_open": [
+        "time"
+    ],
+    "tuesday_open": [
+        "time"
+    ],
+    "tuesday_close": [
+        "time"
+    ],
+    "thursday_close": [
+        "time"
+    ],
+    "monday_close": [
+        "time"
+    ],
+    "friday_close": [
+        "time"
+    ],
+    "Permit_Contact_Phone_No_": [
+        "phone_number"
+    ],
+    "Permit_Address_Ward": [
+        "district"
+    ],
+    "Permit_Address_Postal_Code": [
+        "postcode"
+    ],
+    "Permit_Address_Street_Name": [
+        "street"
+    ],
+    "Permit_Sticker_No": [
+        "identifier"
+    ],
+    "Issue_Date": [
+        "date"
+    ],
+    "Permit_Class": [
+        "classification"
+    ],
+    "Permit_No": [
+        "identifier"
+    ],
+    "Permit_Holder": [
+        "name"
+    ],
+    "Permit_Address_Street_No": [
+        "house_number"
+    ],
+    "speed_limit": [
+        "speed_limit"
+    ],
+    "ward_no": [
+        "reference"
+    ],
+    "flash_speed": [
+        "speed"
+    ],
+    "sign_id": [
+        "identifier"
+    ],
+    "min_speed": [
+        "speed"
+    ],
+    "dir": [
+        "direction"
+    ],
+    "schedule": [
+        "schedule"
+    ],
+    "sign_name": [
+        "name"
+    ],
+    "strobe_speed": [
+        "speed"
+    ],
+    "violations.violationFireCode": [
+        "fire_code"
+    ],
+    "propertyAddress": [
+        "address"
+    ],
+    "Inspections.ClosedDate": [
+        "datetime"
+    ],
+    "violations.violationDescription": [
+        "description"
+    ],
+    "propertyWard": [
+        "ward"
+    ],
+    "_id": [
+        "identifier"
+    ],
+    "inspections.OpenedDate": [
+        "datetime"
+    ],
+    "APPLICATION_TYPE": [
+        "type"
+    ],
+    "APPLICATION#": [
+        "identifier"
+    ],
+    "POSTAL": [
+        "zip_code"
+    ],
+    "STREET_DIRECTION": [
+        "cardinalDirection"
+    ],
+    "REFERENCE_FILE#": [
+        "identifier"
+    ],
+    "STATUS": [
+        "status"
+    ],
+    "HEARING_DATE": [
+        "date"
+    ],
+    "DATE_SUBMITTED": [
+        "date"
+    ],
+    "DESCRIPTION": [
+        "description"
+    ],
+    "STREET_TYPE": [
+        "type"
+    ],
+    "STREET_NUM": [
+        "house_number"
+    ],
+    "STREET_NAME": [
+        "street"
+    ],
+    "X": [
+        "easting"
+    ],
+    "Y": [
+        "northing"
+    ],
+    "Status": [
+        "status"
+    ],
+    "Occurrence_Year": [
+        "year"
+    ],
+    "Occurrence_Month": [
+        "month"
+    ],
+    "Cost_of_Bike": [
+        "price"
+    ],
+    "Hood_ID": [
+        "identifier"
+    ],
+    "Bike_Type": [
+        "classification"
+    ],
+    "Bike_Colour": [
+        "colour"
+    ],
+    "Occurrence_Time": [
+        "time"
+    ],
+    "Premise_Type": [
+        "type"
+    ],
+    "Neighbourhood": [
+        "district"
+    ],
+    "Division": [
+        "department"
+    ],
+    "event_unique_id": [
+        "identifier"
+    ],
+    "Occurrence_Day": [
+        "day"
+    ],
+    "Primary_Offence": [
+        "offense"
+    ],
+    "Occurrence_Date": [
+        "date"
+    ],
+    "Location_Type": [
+        "type"
+    ],
+    "Bike_Make": [
+        "brand"
+    ],
+    "Bike_Speed": [
+        "kmh"
+    ],
+    "NGHBRHD_NUM": [
+        "value"
+    ],
+    "FLR_ABV_GR": [
+        "value"
+    ],
+    "BLD_FORM": [
+        "classification"
+    ],
+    "DEV_NAME": [
+        "name"
+    ],
+    "PSTL_CODE": [
+        "postcode"
+    ],
+    "TTL_RES_UNIT": [
+        "count"
+    ],
+    "BLD_ID": [
+        "identifier"
+    ],
+    "POLICE_DIV": [
+        "department"
+    ],
+    "OBJECTID": [
+        "identifier"
+    ],
+    "RGI_UNITS": [
+        "rental_unit"
+    ],
+    "YR_BUILT": [
+        "building_year"
+    ],
+    "SCATTERED": [
+        "information"
+    ],
+    "MRKT_UNIT": [
+        "count"
+    ],
+    "BLD_TYPO": [
+        "type"
+    ],
+    "DEV_ID": [
+        "identifier"
+    ],
+    "BLD_DESC": [
+        "description"
+    ],
+    "POSTAL_CODE": [
+        "postcode"
+    ],
+    "ADDRESS_FULL": [
+        "street"
+    ],
+    "TCDSB_CODE": [
+        "identifier"
+    ],
+    "SCH_NAME": [
+        "name"
+    ],
+    "MUNICIPALITY": [
+        "municipality"
+    ],
+    "country": [
+        "country"
+    ],
+    "licencenumber": [
+        "code"
+    ],
+    "unittype": [
+        "type"
+    ],
+    "localarea": [
+        "area"
+    ],
+    "feepaid": [
+        "charge"
+    ],
+    "numberofemployees": [
+        "employee"
+    ],
+    "businesstradename": [
+        "name"
+    ],
+    "house": [
+        "house_number"
+    ],
+    "businesstype": [
+        "type"
+    ],
+    "expireddate": [
+        "date"
+    ],
+    "licencersn": [
+        "identifier"
+    ],
+    "unit": [
+        "identifier",
+        "unit"
+    ],
+    "province": [
+        "state"
+    ],
+    "postalcode": [
+        "postcode"
+    ],
+    "businessname": [
+        "name"
+    ],
+    "licencerevisionnumber": [
+        "version"
+    ],
+    "businesssubtype": [
+        "type"
+    ],
+    "folderyear": [
+        "code"
+    ],
+    "issueddate": [
+        "datetime"
+    ],
+    "datasetid": [
+        "classification"
+    ],
+    "geo_local_area": [
+        "district",
+        "area"
+    ],
+    "businessoperator": [
+        "owner"
+    ],
+    "streetnumber": [
+        "house_number"
+    ],
+    "detailurl": [
+        "url"
+    ],
+    "totalunits": [
+        "count"
+    ],
+    "totaloutstanding": [
+        "count"
+    ],
+    "record_timestamp": [
+        "datetime"
+    ],
+    "siteaddress": [
+        "address"
+    ],
+    "primarymaterial": [
+        "material"
+    ],
+    "artistprojectstatement": [
+        "description"
+    ],
+    "photocredits": [
+        "photographer"
+    ],
+    "locationonsite": [
+        "position"
+    ],
+    "registryid": [
+        "identifier"
+    ],
+    "descriptionofwork": [
+        "description"
+    ],
+    "thumbnail": [
+        "thumbnail"
+    ],
+    "filename": [
+        "name"
+    ],
+    "format": [
+        "format"
+    ],
+    "width": [
+        "width"
+    ],
+    "mimetype": [
+        "type"
+    ],
+    "height": [
+        "height"
+    ],
+    "yearofinstallation": [
+        "year"
+    ],
+    "ownership": [
+        "artist",
+        "owner"
+    ],
+    "artists": [
+        "identifier"
+    ],
+    "sitename": [
+        "name"
+    ],
+    "geo_local_area ": [
+        "district"
+    ],
+    "std_street": [
+        "name"
+    ],
+    "tree_id": [
+        "identifier"
+    ],
+    "species_name": [
+        "species"
+    ],
+    "street_side_name": [
+        "sidewalk"
+    ],
+    "root_barrier": [
+        "barrier"
+    ],
+    "date_planted": [
+        "date"
+    ],
+    "curb": [
+        "curb"
+    ],
+    "genus_name": [
+        "genus"
+    ],
+    "diameter": [
+        "height"
+    ],
+    "civic_number": [
+        "value"
+    ],
+    "height_range_id": [
+        "value"
+    ],
+    "assigned": [
+        "indicator"
+    ],
+    "plant_area": [
+        "position"
+    ],
+    "common_name": [
+        "name"
+    ],
+    "cultivar_name": [
+        "cultivar"
+    ],
+    "on_street_block": [
+        "street_block"
+    ],
+    "note": [
+        "information"
+    ],
+    "wheel_access": [
+        "wheel_access"
+    ],
+    "winter_hours": [
+        "opening_hours"
+    ],
+    "summer_hours": [
+        "opening_hours"
+    ],
+    "maintainer": [
+        "organization",
+        "department"
+    ],
+    "primaryind": [
+        "identifier"
+    ],
+    "vhr": [
+        "classification"
+    ],
+    "buildingname": [
+        "name"
+    ],
+    "hra_hcc": [
+        "classification"
+    ],
+    "street_nbr": [
+        "house_number"
+    ],
+    "designation": [
+        "type"
+    ],
+    "design_adaptable_3br": [
+        "count"
+    ],
+    "design_adaptable_2br": [
+        "count"
+    ],
+    "design_adaptable_1br": [
+        "count"
+    ],
+    "project_status": [
+        "status"
+    ],
+    "clientele_other": [
+        "count"
+    ],
+    "design_accessible_room": [
+        "count"
+    ],
+    "clientele_families": [
+        "count"
+    ],
+    "local_area": [
+        "district",
+        "area"
+    ],
+    "operator": [
+        "company"
+    ],
+    "design_accessible_4br": [
+        "count"
+    ],
+    "design_accessible_1br": [
+        "count"
+    ],
+    "design_accessible_2br": [
+        "count"
+    ],
+    "design_accessible_3br": [
+        "count"
+    ],
+    "design_accessible_studio": [
+        "count"
+    ],
+    "design_standard_1br": [
+        "count"
+    ],
+    "design_standard_2br": [
+        "count"
+    ],
+    "design_standard_3br": [
+        "count"
+    ],
+    "clientele_seniors": [
+        "count"
+    ],
+    "design_standard_4br": [
+        "count"
+    ],
+    "index_number": [
+        "identifier"
+    ],
+    "design_standard_studio": [
+        "count"
+    ],
+    "design_standard_room": [
+        "count"
+    ],
+    "occupancy_year": [
+        "year"
+    ],
+    "design_adaptable_4br": [
+        "count"
+    ],
+    "street_segment_types": [
+        "type"
+    ],
+    "unique_id": [
+        "identifier"
+    ],
+    "length": [
+        "length"
+    ],
+    "direction_of_movement": [
+        "direction"
+    ],
+    "year_of_construction": [
+        "building_year"
+    ],
+    "bike_route_name": [
+        "name"
+    ],
+    "bikeway_type": [
+        "type"
+    ],
+    "number_of_food_trees": [
+        "count"
+    ],
+    "website": [
+        "url"
+    ],
+    "street_direction": [
+        "direction"
+    ],
+    "jurisdiction": [
+        "owner"
+    ],
+    "public_e_mail": [
+        "email_address"
+    ],
+    "food_tree_varieties": [
+        "type"
+    ],
+    "street_number": [
+        "value"
+    ],
+    "mapid": [
+        "identifier"
+    ],
+    "street_type": [
+        "type"
+    ],
+    "number_of_plots": [
+        "count"
+    ],
+    "year_created": [
+        "year"
+    ],
+    "steward_or_managing_organization": [
+        "organization"
+    ],
+    "merged_address": [
+        "address"
+    ],
+    "in_operation": [
+        "opening_hours"
+    ],
+    "pet_friendly": [
+        "pet"
+    ],
+    "feature_id": [
+        "identifier"
+    ],
+    "code": [
+        "identifier"
+    ],
+    "color": [
+        "colour",
+        "occupation_status"
+    ],
+    "line": [
+        "direction"
+    ],
+    "subsystem": [
+        "subsystem"
+    ],
+    "incomm": [
+        "information"
+    ],
+    "covwaterhydrantunittype": [
+        "type"
+    ],
+    "instdate1": [
+        "date"
+    ],
+    "active": [
+        "information"
+    ],
+    "oocdate": [
+        "date"
+    ],
+    "oldhydnum": [
+        "value"
+    ],
+    "distancefromcorner": [
+        "length"
+    ],
+    "feederlen": [
+        "length"
+    ],
+    "fireuseonly": [
+        "information"
+    ],
+    "oocnotes": [
+        "information"
+    ],
+    "unitid": [
+        "identifier"
+    ],
+    "castsub": [
+        "position"
+    ],
+    "compression": [
+        "information"
+    ],
+    "remarks": [
+        "information"
+    ],
+    "advisories": [
+        "advisory "
+    ],
+    "ewstreet": [
+        "street"
+    ],
+    "neighbourhoodname": [
+        "district"
+    ],
+    "streetname": [
+        "street"
+    ],
+    "official": [
+        "information"
+    ],
+    "nsstreet": [
+        "street"
+    ],
+    "hectare": [
+        "area"
+    ],
+    "parkid": [
+        "identifier"
+    ],
+    "neighbourhoodurl": [
+        "url"
+    ],
+    "googlemapdest": [
+        "geoposition"
+    ],
+    "washrooms": [
+        "Washroom"
+    ],
+    "facilities": [
+        "facility"
+    ],
+    "specialfeatures": [
+        "service"
+    ],
+    "location_1": [
+        "street"
+    ],
+    "orientation": [
+        "orientation"
+    ],
+    "zone": [
+        "area"
+    ],
+    "installation": [
+        "year"
+    ],
+    "bia": [
+        "area"
+    ],
+    "key": [
+        "identifier"
+    ],
+    "location_2": [
+        "street"
+    ],
+    "active_space": [
+        "status"
+    ],
+    "cultural_space_name": [
+        "name"
+    ],
+    "primary_use": [
+        "usage"
+    ],
+    "square_feet": [
+        "size"
+    ],
+    "number_of_seats": [
+        "count"
+    ],
+    "business_name": [
+        "name"
+    ],
+    "geo_localarea": [
+        "district"
+    ],
+    "vendor_type": [
+        "type"
+    ],
+    "category2": [
+        "goal"
+    ],
+    "short_description": [
+        "description"
+    ],
+    "category1": [
+        "classification"
+    ],
+    "location_state": [
+        "state"
+    ],
+    "phone": [
+        "phone_number"
+    ],
+    "area_name": [
+        "area"
+    ],
+    "rpt_dist_no": [
+        "area",
+        "district"
+    ],
+    "lon": [
+        "longitude"
+    ],
+    "crm_cd": [
+        "code"
+    ],
+    "crm_cd_1": [
+        "code"
+    ],
+    "crm_cd_2": [
+        "code"
+    ],
+    "mocodes": [
+        "code"
+    ],
+    "vict_age": [
+        "age"
+    ],
+    "date_occ": [
+        "date"
+    ],
+    "lat": [
+        "latitude"
+    ],
+    "area": [
+        "area",
+        "identifier"
+    ],
+    "crm_cd_desc": [
+        "description"
+    ],
+    "dr_no": [
+        "identifier"
+    ],
+    "status_desc": [
+        "description"
+    ],
+    "premis_cd": [
+        "code"
+    ],
+    "premis_desc": [
+        "description"
+    ],
+    "vict_descent": [
+        "race",
+        "code"
+    ],
+    "weapon_used_cd": [
+        "code"
+    ],
+    "cross_street": [
+        "street"
+    ],
+    "time_occ": [
+        "time"
+    ],
+    "vict_sex": [
+        "gender"
+    ],
+    "date_rptd": [
+        "date"
+    ],
+    "weapon_desc": [
+        "type"
+    ],
+    "mailing_city": [
+        "city"
+    ],
+    "street_address": [
+        "address",
+        "street"
+    ],
+    "location_account": [
+        "identifier"
+    ],
+    "location_start_date": [
+        "datetime"
+    ],
+    "mailing_zip_code": [
+        "zip_code"
+    ],
+    "dba_name": [
+        "name"
+    ],
+    "location_description": [
+        "description"
+    ],
+    "mailing_address": [
+        "address"
+    ],
+    "primary_naics_description": [
+        "description"
+    ],
+    "council_district": [
+        "district"
+    ],
+    "naics": [
+        "identifier"
+    ],
+    "freespaces": [
+        "count"
+    ],
+    "fullcapacity": [
+        "occupation_status"
+    ],
+    "totalparkingspaces": [
+        "count"
+    ],
+    "parkingname": [
+        "name"
+    ],
+    "parkingid": [
+        "identifier"
+    ],
+    "key_value": [
+        "value"
+    ],
+    "long": [
+        "longitude"
+    ],
+    "lotdescription": [
+        "description"
+    ],
+    "occupied": [
+        "count"
+    ],
+    "permit": [
+        "permit"
+    ],
+    "inspection_date": [
+        "date"
+    ],
+    "inspection_result": [
+        "result"
+    ],
+    "permit_status": [
+        "status"
+    ],
+    "inspection": [
+        "inspection"
+    ],
+    "sb_peak_am_volume": [
+        "maximum_volume"
+    ],
+    "wb_peak_pm_hour": [
+        "time"
+    ],
+    "wb_peak_am_volume": [
+        "maximum_volume"
+    ],
+    "nb_peak_am_hour": [
+        "time"
+    ],
+    "eb_peak_pm_hour": [
+        "time"
+    ],
+    "intersection_leg": [
+        "reference"
+    ],
+    "eb_peak_am_hour": [
+        "time"
+    ],
+    "eb_peak_pm_volume": [
+        "maximum_volume"
+    ],
+    "nb_peak_pm_volume": [
+        "maximum_volume"
+    ],
+    "awdt": [
+        "traffic_volume"
+    ],
+    "nb_peak_am_volume": [
+        "maximum_volume"
+    ],
+    "sb_peak_pm_volume": [
+        "maximum_volume"
+    ],
+    "nb_peak_pm_hour": [
+        "time"
+    ],
+    "wb_peak_am_hour": [
+        "time"
+    ],
+    "wb_peak_pm_volume": [
+        "maximum_volume"
+    ],
+    "sb_peak_am_hour": [
+        "time"
+    ],
+    "days": [
+        "duration"
+    ],
+    "sb_peak_pm_hour": [
+        "time"
+    ],
+    "eb_peak_am_volume": [
+        "maximum_volume"
+    ],
+    "county": [
+        "county"
+    ],
+    "lanes": [
+        "lane"
+    ],
+    "incident": [
+        "incident",
+        "identifier"
+    ],
+    "direction": [
+        "direction"
+    ],
+    "center_name": [
+        "name"
+    ],
+    "built": [
+        "year"
+    ],
+    "resolution_number": [
+        "identifier"
+    ],
+    "architect": [
+        "name"
+    ],
+    "date_designated": [
+        "date"
+    ],
+    "property_name": [
+        "name"
+    ],
+    "legislative_district": [
+        "district"
+    ],
+    "model_year": [
+        "year"
+    ],
+    "base_msrp": [
+        "price"
+    ],
+    "ev_type": [
+        "type"
+    ],
+    "vin_1_10": [
+        "identifier"
+    ],
+    "cafv_type": [
+        "type"
+    ],
+    "dol_vehicle_id": [
+        "identifier"
+    ],
+    "model": [
+        "type"
+    ],
+    "make": [
+        "brand"
+    ],
+    "electric_range": [
+        "range"
+    ],
+    "owner_legal_name": [
+        "name"
+    ],
+    "AVAILABLE BIKES": [
+        "count"
+    ],
+    "BIKE STANDS": [
+        "count"
+    ],
+    "AVAILABLE BIKE STANDS": [
+        "count"
+    ],
+    "ADDRESS": [
+        "address"
+    ],
+    "LONGITUDE": [
+        "longitude"
+    ],
+    "LATITUDE": [
+        "latitude"
+    ],
+    "STATION ID": [
+        "identifier"
+    ],
+    "NAME": [
+        "name"
+    ],
+    "BikeID": [
+        "identifier"
+    ],
+    "BikeIdentifier": [
+        "identifier"
+    ],
+    "EBikeStateID": [
+        "status"
+    ],
+    "LastRentalStart": [
+        "datetime"
+    ],
+    "IsEBike": [
+        "qualifier"
+    ],
+    "BikeTypeName": [
+        "name"
+    ],
+    "LastGPSTime": [
+        "datetime"
+    ],
+    "IsSmartLock": [
+        "qualifier"
+    ],
+    "SpikeID": [
+        "identifier"
+    ],
+    "IsMotor": [
+        "qualifier"
+    ],
+    "EBikeProfileID": [
+        "identifier"
+    ],
+    "number_of_stems": [
+        "count"
+    ],
+    "date_installed": [
+        "date"
+    ],
+    "geo_point_2d": [
+        "geoposition"
+    ],
+    "trunk_diameter": [
+        "diameter"
+    ],
+    "memorial_tree": [
+        "memory"
+    ],
+    "scientific_name": [
+        "name"
+    ],
+    "park": [
+        "name"
+    ],
+    "incident_type": [
+        "classification"
+    ],
+    "incident_duration": [
+        "duration"
+    ],
+    "alarm_time": [
+        "date"
+    ],
+    "stations": [
+        "fire_department"
+    ],
+    "units": [
+        "name"
+    ],
+    "response_time_median": [
+        "time_period"
+    ],
+    "call_type": [
+        "classification"
+    ],
+    "unit_count": [
+        "count"
+    ],
+    "*": [
+        "geoposition"
+    ],
+    "project_description": [
+        "description"
+    ],
+    "planned_construction_to": [
+        "date"
+    ],
+    "program_subclass": [
+        "classification"
+    ],
+    "organization": [
+        "organization"
+    ],
+    "project_url": [
+        "url"
+    ],
+    "project_title": [
+        "name"
+    ],
+    "capital_program_poly": [
+        "classification"
+    ],
+    "planned_construction_from": [
+        "date"
+    ],
+    "in_county": [
+        "county"
+    ],
+    "usage_gallons": [
+        "consumption"
+    ],
+    "batch_number": [
+        "identifier"
+    ],
+    "usage_hcf": [
+        "consumption"
+    ],
+    "utility_type": [
+        "type"
+    ],
+    "bill_date": [
+        "datetime"
+    ],
+    "bill_code": [
+        "identifier"
+    ],
+    "census_block_id": [
+        "identifier"
+    ],
+    "last_read_date": [
+        "datetime"
+    ],
+    "category_description": [
+        "description"
+    ],
+    "street_segment_wkt": [
+        "streetSegment"
+    ],
+    "street_side": [
+        "orientation"
+    ],
+    "net": [
+        "price"
+    ],
+    "debtor_number": [
+        "identifier"
+    ],
+    "street_centroid_lat": [
+        "latitude"
+    ],
+    "category_code": [
+        "identifier"
+    ],
+    "street_centroid_wkt": [
+        "location"
+    ],
+    "current_read_date": [
+        "datetime"
+    ],
+    "street_centroid_lon": [
+        "longitude"
+    ],
+    "occupant_code": [
+        "identifier"
+    ],
+    "accident_cnt": [
+        "count"
+    ],
+    "death_cnt": [
+        "count"
+    ],
+    "street_name_2": [
+        "name"
+    ],
+    "injury_cnt": [
+        "count"
+    ],
+    "kiosk_name": [
+        "name"
+    ],
+    "kiosk_status": [
+        "status"
+    ],
+    "kiosk_id": [
+        "identifier"
+    ],
+    "watershed": [
+        "watershed"
+    ],
+    "lat_dd_wgs84": [
+        "latitude"
+    ],
+    "method": [
+        "method"
+    ],
+    "site_type": [
+        "type"
+    ],
+    "sample_id": [
+        "identifier"
+    ],
+    "project": [
+        "project"
+    ],
+    "ref_no": [
+        "reference"
+    ],
+    "sample_site_no": [
+        "reference"
+    ],
+    "param_type": [
+        "classification"
+    ],
+    "filter": [
+        "filter"
+    ],
+    "result": [
+        "result"
+    ],
+    "site_name": [
+        "name"
+    ],
+    "depth_in_meters": [
+        "depth"
+    ],
+    "time_null": [
+        "time"
+    ],
+    "parameter": [
+        "subject"
+    ],
+    "qualifier": [
+        "qualifier"
+    ],
+    "sample_date": [
+        "datetime"
+    ],
+    "sample_ref_no": [
+        "reference"
+    ],
+    "lon_dd_wgs84": [
+        "longitude"
+    ],
+    "rep_time": [
+        "time"
+    ],
+    "ucr_category": [
+        "classification"
+    ],
+    "clearance_date": [
+        "date"
+    ],
+    "clearance_status": [
+        "status"
+    ],
+    "ucr_code": [
+        "code"
+    ],
+    "occ_date_time": [
+        "datetime"
+    ],
+    "incident_report_number": [
+        "identifier"
+    ],
+    "occ_date": [
+        "date"
+    ],
+    "pra": [
+        "area"
+    ],
+    "family_violence": [
+        "information"
+    ],
+    "crime_type": [
+        "address"
+    ],
+    "occ_time": [
+        "time"
+    ],
+    "rep_date": [
+        "date"
+    ],
+    "rep_date_time": [
+        "datetime"
+    ],
+    "district": [
+        "district"
+    ],
+    "cmnt_2": [
+        "report"
+    ],
+    "cmnt_1": [
+        "report"
+    ],
+    "ped_signal_pres": [
+        "criterion"
+    ],
+    "cpl_force": [
+        "criterion"
+    ],
+    "cpl_prox": [
+        "criterion"
+    ],
+    "cpl_ctrst": [
+        "criterion"
+    ],
+    "cpl_cw_2": [
+        "criterion"
+    ],
+    "cpl_cw_1": [
+        "criterion"
+    ],
+    "cpl_vis": [
+        "criterion"
+    ],
+    "cpl_ldg": [
+        "criterion"
+    ],
+    "cpl_op": [
+        "criterion"
+    ],
+    "cpl_aud": [
+        "criterion"
+    ],
+    "evnt_type": [
+        "type"
+    ],
+    "intersectionid": [
+        "identifier"
+    ],
+    "cpl_size": [
+        "criterion"
+    ],
+    "inspector": [
+        "inspector"
+    ],
+    "evnt_lat": [
+        "latitude"
+    ],
+    "evnt_map": [
+        "identifier"
+    ],
+    "quad": [
+        "cardinalDirection"
+    ],
+    "cpl_hgt": [
+        "criterion"
+    ],
+    "cpl_place": [
+        "criterion"
+    ],
+    "onst": [
+        "street"
+    ],
+    "cpl_sep": [
+        "criterion"
+    ],
+    "evnt_lon": [
+        "longitude"
+    ],
+    "crst": [
+        "street"
+    ],
+    "oa_cmnt": [
+        "report"
+    ],
+    "company_phone": [
+        "phone_number"
+    ],
+    "sumd_id": [
+        "identifier"
+    ],
+    "availability_duration": [
+        "time_period"
+    ],
+    "sumd_type": [
+        "type"
+    ],
+    "real_time_fare": [
+        "fare"
+    ],
+    "availability_start_date": [
+        "date"
+    ],
+    "company_website": [
+        "url"
+    ],
+    "gps_latitude": [
+        "latitude"
+    ],
+    "gps_longitude": [
+        "longitude"
+    ],
+    "sumd_group": [
+        "classification"
+    ],
+    "availability_start_time": [
+        "time"
+    ],
+    "shelter": [
+        "shelter"
+    ],
+    "bench": [
+        "bench"
+    ],
+    "route_name": [
+        "name"
+    ],
+    "route_number": [
+        "identifier"
+    ],
+    "stopname": [
+        "name"
+    ],
+    "stop_id_number": [
+        "identifier"
+    ],
+    "census_block_group": [
+        "census_block_group",
+        "classification"
+    ],
+    "violation_full_address": [
+        "street"
+    ],
+    "summno": [
+        "identifier"
+    ],
+    "violation_address_number": [
+        "house_number"
+    ],
+    "origfine": [
+        "charge"
+    ],
+    "summdt": [
+        "date"
+    ],
+    "violation_street": [
+        "street"
+    ],
+    "census_block": [
+        "census_block",
+        "classification"
+    ],
+    "viotime": [
+        "time"
+    ],
+    "police_district": [
+        "district"
+    ],
+    "viodesc": [
+        "description"
+    ],
+    "census_tract": [
+        "census_tract",
+        "classification"
+    ],
+    "license_state": [
+        "state"
+    ],
+    "tow_reason": [
+        "reason"
+    ],
+    "vehicle_make": [
+        "brand"
+    ],
+    "agency": [
+        "company"
+    ],
+    "unique_key": [
+        "identifier"
+    ],
+    "tow_date": [
+        "datetime"
+    ],
+    "vehicle_year": [
+        "year"
+    ],
+    "tow_location": [
+        "street"
+    ],
+    "tow_description": [
+        "description"
+    ],
+    "caseno": [
+        "identifier"
+    ],
+    "resultdttm": [
+        "datetime"
+    ],
+    "compdttm": [
+        "datetime"
+    ],
+    "insptype": [
+        "type"
+    ],
+    "scheddttm": [
+        "datetime"
+    ],
+    "inspby": [
+        "name"
+    ],
+    "address_number": [
+        "house_number"
+    ],
+    "sbl": [
+        "identifier"
+    ],
+    "apcaseinspkey": [
+        "identifier"
+    ],
+    "therms_saved": [
+        "value"
+    ],
+    "park_name": [
+        "park"
+    ],
+    "greenhouse_co2_benefits": [
+        "benefit"
+    ],
+    "co2_sequestered_in_lbs": [
+        "co2"
+    ],
+    "property_benefits": [
+        "benefit"
+    ],
+    "air_quality_benefits": [
+        "benefit"
+    ],
+    "energy_benefits": [
+        "benefit"
+    ],
+    "stormwater_gallons_saved": [
+        "value"
+    ],
+    "leaf_surface_area_in_sq_ft": [
+        "value"
+    ],
+    "botanical_name": [
+        "species"
+    ],
+    "side": [
+        "position"
+    ],
+    "kwh_saved": [
+        "value"
+    ],
+    "dbh": [
+        "height"
+    ],
+    "editing": [
+        "benefit"
+    ],
+    "site": [
+        "position"
+    ],
+    "site_id": [
+        "identifier"
+    ],
+    "pollutants_saved_in_lbs": [
+        "value"
+    ],
+    "co2_avoided_in_lbs": [
+        "co2"
+    ],
+    "total_yearly_eco_benefits": [
+        "benefit"
+    ],
+    "aadt_year": [
+        "year"
+    ],
+    "municipality": [
+        "municipality"
+    ],
+    "from": [
+        "starting_point"
+    ],
+    "to": [
+        "endpoint"
+    ],
+    "aadt": [
+        "traffic_volume"
+    ],
+    "approach": [
+        "position"
+    ],
+    "localid": [
+        "identifier"
+    ],
+    "on": [
+        "street"
+    ],
+    "category": [
+        "classification"
+    ],
+    "property_details": [
+        "description"
+    ],
+    "parcel": [
+        "identifier"
+    ],
+    "available_for_purchase": [
+        "availability"
+    ],
+    "funding_source": [
+        "funding_source"
+    ],
+    "purchase_price": [
+        "price"
+    ],
+    "property_type": [
+        "type"
+    ],
+    "title_status": [
+        "name"
+    ],
+    "associate_supt_board_of_ed_1": [
+        "school_board"
+    ],
+    "grade_min": [
+        "minimum"
+    ],
+    "school_type": [
+        "classification"
+    ],
+    "assistant_principal_3": [
+        "assistant_principal"
+    ],
+    "assistant_principal_2": [
+        "assistant_principal"
+    ],
+    "assistant_principal_4": [
+        "assistant_principal"
+    ],
+    "principal": [
+        "principal"
+    ],
+    "school": [
+        "name"
+    ],
+    "grade_max": [
+        "maximum"
+    ],
+    "fax": [
+        "fax_number"
+    ],
+    "end_time": [
+        "time"
+    ],
+    "telephone": [
+        "phone_number"
+    ],
+    "start_time": [
+        "time"
+    ],
+    "assistant_principal_1": [
+        "assistant_principal"
+    ],
+    "associate_supt_board_of_ed": [
+        "school_board"
+    ],
+    "school_number": [
+        "identifier"
+    ]
+}

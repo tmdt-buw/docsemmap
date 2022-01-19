@@ -1,0 +1,53 @@
+[
+  {
+    "concept": "plasma:payment_method",
+    "conceptId": "ec_ab1a79f8-46b1-4516-865d-6f9a0a592bc4",
+    "originalLabel": "pay_by_credit_card",
+    "path": [],
+    "conceptResource": "http://www.plasma.uni-wuppertal.de/schema#payment_method"
+  },
+  {
+    "concept": "plasma:address",
+    "conceptId": "ec_7c0206ca-41ce-48ad-8f58-e413e6304040",
+    "originalLabel": "address",
+    "path": [],
+    "conceptResource": "http://www.plasma.uni-wuppertal.de/schema#address"
+  },
+  {
+    "concept": "plasma:identifier",
+    "conceptId": "ec_aa540994-e964-442b-8254-74e0b4d3dd38",
+    "originalLabel": "tvm_identifier",
+    "path": [],
+    "conceptResource": "http://www.plasma.uni-wuppertal.de/schema#identifier"
+  },
+  {
+    "concept": "plasma:payment_method",
+    "conceptId": "ec_ab1a79f8-46b1-4516-865d-6f9a0a592bc4",
+    "originalLabel": "pay_by_cash",
+    "path": [],
+    "conceptResource": "http://www.plasma.uni-wuppertal.de/schema#payment_method"
+  },
+  {
+    "concept": "plasma:latitude",
+    "conceptId": "ec_3d45cb0a-2588-4f08-a03b-04dcd9c9e84d",
+    "originalLabel": "latitude",
+    "path": [],
+    "conceptResource": "http://www.plasma.uni-wuppertal.de/schema#latitude"
+  },
+  {
+    "concept": "plasma:geo_type",
+    "conceptId": "ec_0d36bead-4e4e-4825-91a6-4274402fb5ab",
+    "originalLabel": "type",
+    "path": [
+      "location"
+    ],
+    "conceptResource": "http://www.plasma.uni-wuppertal.de/schema#geo_type"
+  },
+  {
+    "concept": "plasma:longitude",
+    "conceptId": "ec_51455ce7-e38b-4ebd-bec3-a3ef401c8503",
+    "originalLabel": "longitude",
+    "path": [],
+    "conceptResource": "http://www.plasma.uni-wuppertal.de/schema#longitude"
+  }
+]
